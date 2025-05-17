@@ -1,3 +1,19 @@
+# 🔐 Cyber‑Security & Ethical‑Hacking – 30‑Day Journey  
+
+
+
+
+
+## 📅 Overview  
+
+| Week | Theme | Days |
+| ---- | ---------------------------- | ------------- |
+| 1 | Cyber‑Security Fundamentals | 1 – 7 |
+| 2 | Passwords • Malware • Network | 8 – 14 |
+| 3 | Web • IAM • Incident Response | 15 – 21 |
+| 4 | Threats • Pen‑Testing • Cloud | 22 – 30 |
+
+
 
 
 
