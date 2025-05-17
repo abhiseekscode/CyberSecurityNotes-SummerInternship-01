@@ -83,7 +83,3 @@
 
 
 ---
-
-## 📜 License  
-
-MIT – do with it what you will 😄
